@@ -46,8 +46,10 @@ hr{
 button{
 
     padding: 25px 160px;
-margin-left: 50px;
-margin-bottom: 10px;
+position:relative;
+left: 15% ;
+
+margin-right: 20px;
 border-radius: 20px;
 background-color:  rgba(46, 2, 90, 0.466);
 color: black;
