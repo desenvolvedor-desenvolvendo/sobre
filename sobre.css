@@ -46,7 +46,8 @@ hr{
 button{
 
     padding: 25px 160px;
- margin:17px 34px 10px 100px;
+margin-left: 80px;
+margin-bottom: 10px;
 border-radius: 20px;
 background-color:  rgba(46, 2, 90, 0.466);
 color: black;
@@ -73,13 +74,14 @@ button:active{
     background-color: rgba(165, 81, 248, 0.466) ;
 }
 a{
-    text-align: left;
+    text-align: center;
+  justify-content: center;
     background-color: rgba(46, 2, 90, 0.466);
-    padding: 30px 30px ;
+    padding: 30px 50px ;
 text-decoration: none;
 border-radius: 50px;
 transition-duration: .7s ;
-margin: 10px 300px ;
+margin: 10px 110px ;
 font-family: "Josefin Sans" ;
 color: white;
 display: block;
