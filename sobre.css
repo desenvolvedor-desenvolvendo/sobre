@@ -44,12 +44,10 @@ hr{
 }
 
 button{
+ 
 
-    padding: 25px 120px;
-position:relative;
-left: 1.5% ;
-margin: 10px 8rem;
-margin-right: 40px;
+
+margin: 10px 60px;
 border-radius: 20px;
 background-color:  rgba(46, 2, 90, 0.466);
 color: black;
